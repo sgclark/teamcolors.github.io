@@ -74,13 +74,13 @@
     {
         "team": "Queens Park Rangers",
         "colors": {
-            "hex"   :   ["005CAB"]
+            "hex"   :   ["005CAB", "bd1f34", "332e35"]
         }
     },
     {
         "team": "Southampton",
         "colors": {
-            "hex"   :   ["ED1A3B",          "211E1F",           "FFC20E"]
+            "hex"   :   ["ED1A3B",          "211E1F",           "FFC20E", "21386f", "6ee383"]
         }
     },
     {
@@ -98,7 +98,7 @@
     {
         "team": "Swansea City",
         "colors": {
-            "hex"   :   ["000000"]
+            "hex"   :   ["000000", "77e465", "222761"]
         }
     },
     {
